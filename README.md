@@ -1,3 +1,5 @@
+Wanted to work with web APIs so I created a simple movie database that allows you to search for movies. Followed video tutorial: https://www.youtube.com/watch?v=bqSSLr8A8PU
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
